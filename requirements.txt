@@ -4,5 +4,5 @@ selenium==3.141.0
 # webdriver-manager==2.3.0https://github.com/hupei1991/Amazon-Fresh-Slot-Checker/blob/master/requirements.txt
 
 Pillow==9.3.0
-requests==2.31.0
+requests==2.32.0
 matplotlib==3.2.1
